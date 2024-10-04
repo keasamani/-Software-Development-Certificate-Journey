@@ -10,4 +10,4 @@ In this module, I was encouraged to think creatively and work collaboratively, w
 
 Finally, I realized the broader impact of software engineering: It drives innovation by ensuring software systems are reliable, efficient, and ready to meet the challenges of tomorrow. It’s not just about writing code—it’s about building systems that people and businesses can depend on.
 
-This learning has inspired me to continue honing my skills so that I can contribute to developing software solutions that are not only functional but also innovative and valuable to users.
+**This learning has inspired me to continue honing my skills so that I can contribute to developing software solutions that are not only functional but also innovative and valuable to users**.

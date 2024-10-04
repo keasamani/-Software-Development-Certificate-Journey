@@ -1,4 +1,4 @@
-Welcome to my repository! This is where I document my 2-month (168 hours) software development certificate program, covering a variety of topics in modern software engineering. Here you'll find project samples, learning notes, and code snippets as I go through the following courses:
+Welcome to my repository! This is where I document my 2-month (168 hours) software development certificate program, covering a variety of topics in modern software engineering. Here you'll find project samples, learning notes, and code snippets as I go through the following modules:
 
 ## Modules to be Covered:
 1. **Introduction to Software Engineering**

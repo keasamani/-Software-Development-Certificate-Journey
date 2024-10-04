@@ -1,4 +1,6 @@
-In this module, I deepened my understanding of **Software Engineering**—a field that goes beyond simply writing code to encompass the structured and disciplined processes needed to develop, maintain, and improve software systems. I learned that software engineering is essential for creating high-quality, reliable software that meets user needs while staying within budget and on time.
+**What I have learnt...**
+
+In this module, I deepened my understanding of **Software Engineering**—a field that goes beyond simply writing code to encompass the structured and disciplined processes needed to develop, maintain, and improve software systems. I learned that software engineering is essential for **creating high-quality**, **reliable software** that meets user needs while staying within budget and on time.
 
 One of the key insights I gained is the importance of the **Software Development Life Cycle (SDLC)**, which outlines the stages of software creation, from gathering requirements to ensuring that the software remains functional and efficient over time through maintenance. This cycle helps structure the work in a way that makes it easier to deliver successful projects.
 

@@ -22,4 +22,4 @@ I will be documenting my progress and sharing my projects here. Stay tuned for:
 Feel free to follow along and explore the code! 
 
 ## Contact
-If you have any questions or suggestions, feel free to reach out to me at [elvisasamani32@gmail.com(mailto:elvisasamani32@gmail.com).
+If you have any questions or suggestions, feel free to reach out to me at [elvisasamani32@gmail.com](mailto:elvisasamani32@gmail.com).
